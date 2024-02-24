@@ -1,7 +1,6 @@
 
 class Calculator {
-//comment added
-    //adding anot
+
     Calculator(){
 
     }
